@@ -67,6 +67,69 @@ print(firsec)
 print(firsecthi)
 
 # 결합하기 update()
+print(pythons)
+others = {'Mark': 'Groucho', 'Howard': 'Moe'}
+pythons.update(others)
+print(pythons)
+
+# 딕셔너리 컴프리헨션
+# {키_표현식 : 값_표현식 for 표현식 in 순회 가능한 객체}
+word = 'letters'
+letter_counts = {letter: word.count(letter) for letter in word}
+print(letter_counts)
+letter_counts2 = {letter: word.count(letter) for letter in set(word)}
+print(letter_counts2)
+
+vowels = 'aeiou'
+word = 'onomatopoeia'
+vowels_counts = {letter: word.count(letter) for letter in set(word) if letter in vowels}
+print(vowels_counts)
 
 
-print()
+# 셋
+
+# 생성하기 set()
+empty_set = set()
+even_numbers = {0, 2, 4, 6, 8}
+odd_numers = {1, 3, 5, 7, 9}
+
+# 변환하기 set()
+letters = set('letters')
+print(letters)
+
+# 항목 추가하기 add()
+letters.add('k')
+print(letters)
+
+# 항목 삭제하기 remove()
+letters.remove('k')
+print(letters)
+
+# 멤버십 테스트 in
+drinks = {
+    'martini': {'vodka', 'vermouth'},
+    'black russian': {'vodka', 'kahula'},
+    'white russian': {'vodka', 'kahula', 'cream'},
+    'manhattan': {'rye', 'vermouth', 'bitters'},
+    'screwdriver': {'orange juice', 'vodka'}
+}
+
+for name, contents in drinks.items():
+    if 'vodka' in contents:
+        print(name)
+
+print('//')
+
+for name, contents in drinks.items():
+    if 'vodka' in contents and 'vermouth' not in contents and 'cream' not in contents:
+        print(name)
+
+print('//')
+
+for name, contents in drinks.items():
+    if 'vodka' in contents and not contents & {'vermouth', 'cream'}:
+        print(name)
+
+# 불변 셋 frozenset()
+fs = frozenset([1, 2, 3])
+print(fs)
