@@ -3,6 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="dd298289-895e-4597-8f7e-afde4367ea24" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch06/6.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch06/6.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/7.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch07/7.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/7.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch07/7.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/7.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch07/7.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch08/8.12.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch08/8.12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch08/8.13.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch08/8.13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch08/8.14.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch08/8.14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch09/9.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch09/9.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch09/9.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch09/9.3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,8 +61,8 @@
       <recent name="C:\Users\Woorin\Desktop\Algorithm\Intro_Python\ch11\ch11.1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.11.7">
-    <configuration name="11.3 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.9.3">
+    <configuration name="8.12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Intro_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,11 +70,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch11" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch08" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch11/11.3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch08/8.12.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,7 +83,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="11.4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="8.13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Intro_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,11 +91,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch11" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch08" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch11/11.4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch08/8.13.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +104,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="11.5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="8.14" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Intro_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,11 +112,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch11" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch08" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch11/11.5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch08/8.14.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="11.6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="9.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Intro_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,11 +133,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch11" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch09" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch11/11.6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch09/9.2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +146,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="11.7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="9.3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Intro_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,11 +154,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch11" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch09" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch11/11.7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch09/9.3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -181,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.11.7" />
-        <item itemvalue="Python.11.6" />
-        <item itemvalue="Python.11.5" />
-        <item itemvalue="Python.11.4" />
-        <item itemvalue="Python.11.3 (1)" />
+        <item itemvalue="Python.9.3" />
+        <item itemvalue="Python.9.2" />
+        <item itemvalue="Python.8.14" />
+        <item itemvalue="Python.8.13" />
+        <item itemvalue="Python.8.12" />
       </list>
     </recent_temporary>
   </component>

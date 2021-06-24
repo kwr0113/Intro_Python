@@ -1,8 +1,11 @@
 
 def test_decorator(func):
-    print('start')
-    func()
-    print('end')
+    def dedeco(*args, **kwargs):
+        print('start')
+        result = func(*args, **kwargs)
+        print('end')
+        return result
+    return dedeco
 
 
 @test_decorator

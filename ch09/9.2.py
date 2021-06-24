@@ -1,8 +1,7 @@
 
 def get_odds():
-    for i in range(10):
-        if i % 2 == 1:
-            yield i
+    for i in range(1, 10, 2):
+        yield i
 
 num = 0
 for odd in get_odds():

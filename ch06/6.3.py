@@ -8,4 +8,3 @@ for number in range(10):
         print("found it!")
     elif number < guess_me:
         print("opps")
-    number += 1
