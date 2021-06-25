@@ -19,4 +19,4 @@ class Element:
 
 hydrogen = Element('h', 'e', 'llo')
 
-print(hydrogen)
+print(hydrogen.name)

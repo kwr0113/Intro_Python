@@ -1,7 +1,7 @@
 
 class Bear:
     def eats(self):
-        return 'barries'
+        return 'berries'
 
 
 class Rabbit:
